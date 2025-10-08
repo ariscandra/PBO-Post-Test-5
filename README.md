@@ -162,7 +162,7 @@ while (rs.next()) {
     petsList.add(pet);
 }
 ```
-**Penjelasan**: "Setiap row dari tabel database di-mapping menjadi object Pet dengan properti yang sesuai"
+Setiap row dari tabel database di-mapping menjadi object Pet dengan properti yang sesuai
 
 ## 📖 Penjelasan Kode
 
